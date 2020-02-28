@@ -7,7 +7,9 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-The purpose of this project is to provide information for patients who are afflicted with one or more of the following disorders: diabetes (type 1 and 2), hypertension, and celiac disorder. The application aims to provide a number of recipes for meals that are compatible with patient disorders. Users will fill out a questionnaire where they list their disorders, select foods that they are particlarly fond of, and select foods that they do not wish to eat. The application will filter recipes by these answers and then present them to users.
+The purpose of this project is to provide information for patients who are afflicted with one or more of the following disorders: diabetes (type 1 and 2), hypertension, and celiac disorder. The application aims to provide a number of recipes for meals that are compatible with patient disorders. The project organization and code will be easily expandable to be able to add disorders, ingredients, and recipes.
+
+Users will fill out a questionnaire where they list their disorders, select foods that they are particlarly fond of, and select foods that they do not wish to eat. The application will filter recipes by these answers and then present them to users.
 
 Additionally, the application will assist users in finding patient care within a radius of a certain zip code. Patient care can vary from inpatient hospitals to outpatient clinics.
 ### Features
@@ -22,7 +24,9 @@ TypeScript
 JavaScript
 Bootstrap
 ### What I'll Have to Learn
-I will have to review and re-teach myself JavaScript, TypeScript, and Angular in order to work on the front-end, which will connect to a Java-based back-end. I will also have to learn how to connect my front-end to my back-end, as that was not covered in LC101.
+In addition to reviewing and relearning JaveScript, Angular, and a number of other languages and interfaces that we were introduced to in LaunchCode 101, Part 1, I will be learning how to work remotely with a team. We are using Discord and GitKraken to develop a work flow and a communication routine in order to progress on this project. 
+
+Mainly, I am using this group project to train myself in collaboration-in-abstensia. This will be the toughest challenge for me.
 ### Project Tracker
 Our group is using a GitKraken board to track project progress.
 https://app.gitkraken.com/glo/board/XlMj8KMmogAQiwdc
